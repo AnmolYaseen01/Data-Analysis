@@ -40,7 +40,7 @@ The analysis provided in this notebook was conducted by the author, and the find
 
 ## Author
 
-[Your Name]
+Anmol Yaseen
 
 ## License
 
